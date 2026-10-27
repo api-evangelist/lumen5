@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lumen5 is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://lumen5.com/
+Lumen5 is an AI-powered video creation platform that enables anyone, without training or experience, to easily create engaging video content within minutes. It automates the video production process, helping marketers, creators, and businesses produce videos at scale for social media, ads, and internal communications.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lumen5.com/)
+- [Documentation](https://help.lumen5.com/)
+- [Pricing](https://lumen5.com/pricing/)
+- [Support](https://help.lumen5.com/en/)
+- [Trust centre](https://lumen5.com/trust/)
+- [Terms of service](https://lumen5.com/terms/)
+- [Privacy policy](https://lumen5.com/privacy/)
+- [GitHub](https://github.com/Lumen5)
+- [Status](https://status.lumen5.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/lumen5/](https://apis.io/providers/lumen5/).
